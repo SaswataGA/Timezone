@@ -2,7 +2,7 @@
 main ()
 {
     int s,m,h;
-    for(h=0; h<60; h++)
+    for(h=0; h<24; h++)
     {
         for(m=0; m<60; m++)
         {
